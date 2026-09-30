@@ -21,4 +21,8 @@ This project focuses on analyzing and understanding audience sentiment, behavior
 - **NLTK (Natural Language Toolkit):** Utilized for tokenization and removing Arabic stop words (stopwords) to filter out noise from comments.
 
 
+<img width="1896" height="907" alt="8" src="https://github.com/user-attachments/assets/437edc9d-f224-4898-831a-7ff77bfbe07d" />
+
+## project link on huggingface 
+https://huggingface.co/spaces/zico2m/comments-analyzer 
   
